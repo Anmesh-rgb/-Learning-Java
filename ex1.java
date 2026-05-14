@@ -14,6 +14,7 @@ public class ex1 {
      }
      per = (total/500)*100;
       System.out.println("percentage of yours is: "+ per + ".");
+       marks.close();
 
      }
 }
